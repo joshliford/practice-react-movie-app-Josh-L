@@ -1,0 +1,21 @@
+.movie-selector-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem;
+    margin: 2rem;
+}
+
+.fetch-button {
+    margin: 1rem;
+    margin-bottom: 0;
+}
+
+label {
+    padding: 1rem;
+}
+
+select {
+    margin-left: 10px;
+    text-align: center;
+}
